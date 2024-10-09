@@ -11,7 +11,7 @@ Currently, I am focused on blending creativity with technical proficiency by app
 ---
 
 ### 💼 What I Do:
-- **Data Analysis**: Skilled in **SQL, Python, Tableau,** and **Google Sheets** for data-drvien decision-making.
+- **Data Analysis**: Skilled in **SQL, Python, Tableau,** and **Google Sheets** for data-driven decision-making.
 - **Leadership**: Experienced in leading communities, mentoring, and inspiring collaboration.
 - **Creative & Analytical Coding**: I enjoy automating processes, building data visualizations, and experimenting with new coding challenges. I am eager to enhance my programming skills and explore innovative ways to drive meaningful change.
 
