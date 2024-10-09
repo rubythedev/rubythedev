@@ -23,7 +23,7 @@ Currently, I am focused on blending creativity with technical proficiency by app
   Unlock the power of your data with PCA_COV, a high-performance Python library that simplifies Principal Component Analysis through the covariance matrix approach. Designed for data analysts and data scientists, this tool enhances dimensionality reduction, boosts data visualization, and streamlines exploratory data analysis. With features like variance analysis, elbow plot generation, and data reconstruction, PCA_COV transforms complex datasets into actionable insights, making it a must-have for machine learning and statistical modeling projects.  
   Check it out on GitHub: [PCA_COV Repository](https://github.com/rubythedev/principal_component_analysis)
 
-_Check out all my projects [here](https://github.com/RubytheDev)._
+_Check out all my projects [here](https://github.com/rubythedev?tab=repositories)._
 
 ---
 
