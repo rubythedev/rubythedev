@@ -31,7 +31,7 @@ _Check out all my projects [here](https://github.com/rubythedev?tab=repositories
 - **Languages**: Python, SQL, MATLAB, JavaScript, Java
 - **Tools**: Tableau, Excel, Power BI, Git, Jupyter Notebooks, SPSS
 - **Frameworks/Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **Concepts**: Data Visualization, Statistical Analysis, Machine Learning, Data Structures and Algorithms, Software Development
+- **Concepts**: Data Visualization, Statistical Analysis, Machine Learning, Predictive Modeling, Big Data, Data Structures and Algorithms, Software Development
 
 ---
 
