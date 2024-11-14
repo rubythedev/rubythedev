@@ -2,7 +2,7 @@
 
 # Hi, I'm Ruby!
 
-## Data Scientist | Programmer | Inspiring Leader
+## Data Scientist | Business Intelligence Analyst | Inspiring Leader
 
 I am a **recent graduate from Colby College** with a passion for leveraging my expertise in **data analytics** and **programming** to extract meaningful insights and solve real-world problems. I have worked on various coding projects, including creating visual art with **Python** using the Turtle graphics library, implementing **machine learning** algorithms in **Python** for email classification and face identification, and analyzing large datasets using **SQL, Python, SPSS, Google Sheets**. Additionally, I have experience creating **interactive dashboards** with **Tableau** to visualize data, track key metrics, and support decision-making processes.
 
@@ -33,7 +33,7 @@ _Check out all my projects [here](https://github.com/rubythedev?tab=repositories
 ---
 
 ### 🛠️ Skills:
-- **Languages**: Python, SQL, MATLAB, JavaScript, Java
+- **Languages**: Python, SQL, MATLAB, Java, JavaScript, HTML, CSS
 - **Tools**: Tableau, Excel, Power BI, Git, Jupyter Notebooks, SPSS
 - **Frameworks/Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Concepts**: Data Visualization, Statistical Analysis, Machine Learning, Predictive Modeling, Big Data, Data Structures and Algorithms, Software Development
@@ -46,10 +46,10 @@ _Check out all my projects [here](https://github.com/rubythedev?tab=repositories
 ---
 
 ### 🌱 What’s Next:
-I am continually working on new projects to expand my skill set, particularly in machine learning algorithms and business analytics. I seek opportunities to contribute to data-driven solutions and apply the knowledge gained from Colby College to create meaningful impact while eagerly exploring new ways to apply my skills.
+I am continually working on new projects to expand my skill set, particularly in machine learning algorithms and business analytics. Currently, I am expanding my knowledge in HTML, CSS, and JavaScript by building websites, while also focusing on machine learning projects that integrate business intelligence. I am applying the skills I’ve learned in TripleTen to execute projects that inform business decisions. I plan on participating in more coding competitions to enhance my abilities and am eager to learn additional machine learning libraries, such as PyTorch, to further advance my expertise.
 
 ---
 
 ### 🚀 Let's Connect!
 
-Feel free to explore my work and reach out for collaboration or opportunities. I am currently seeking to join a company that shares my passion for automating processes through data science.
+Feel free to explore my work and reach out for collaboration or opportunities. I am currently seeking to join a company that shares my passion for automating processes through data science and applying business intelligence analytics to drive informed decision-making. With a strong foundation in data analysis, visualization, and business intelligence tools like Tableau and Power BI, I aim to help organizations unlock actionable insights and improve business performance through data-driven strategies.
