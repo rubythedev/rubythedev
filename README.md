@@ -1,5 +1,7 @@
 ## [✨ Check out my personal website! ✨](https://rubythedev.github.io)
 
+For website inquiries please email: rubyn0620@gmail.com
+
 # Hi, I'm Ruby!
 
 ## Data Scientist | Business Intelligence Analyst | Inspiring Leader
