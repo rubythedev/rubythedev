@@ -1,14 +1,58 @@
-## [✨ Check out my personal website! ✨](https://rubythedev.github.io)
+## [✨ Check out my personal website! ✨](https://rubyalifitness/rubythedev)
 
-For website inquiries please email: rubyn0620@gmail.com
+For website inquiries please email: rubythedev@rubyalifitness.com
 
 # Hi, I'm Ruby!
 
-## Data Scientist | Business Intelligence Analyst | Inspiring Leader
+## Software Engineer | Data Scientist | Business Intelligence Analyst | Inspiring Leader
 
-I am a **recent graduate from Colby College** with a passion for leveraging my expertise in **data analytics** and **programming** to extract meaningful insights and solve real-world problems. I have worked on various coding projects, including creating visual art with **Python** using the Turtle graphics library, implementing **machine learning** algorithms in **Python** for email classification and face identification, and analyzing large datasets using **SQL, Python, SPSS, Google Sheets**. Additionally, I have experience creating **interactive dashboards** with **Tableau** to visualize data, track key metrics, and support decision-making processes.
+I am a **Colby College graduate** with a multidisciplinary background in **data analytics, full-stack software engineering, AI development, and custom digital product creation**. I specialize in turning complex ideas into **clean, intuitive, high-performing systems** that blend data, design, and cutting-edge technology.
 
-Currently, I am focused on blending creativity with technical proficiency by applying **data-driven approaches** to deliver valuable, easily digestible insights and solutions that drive impactful decisions.
+My early work includes implementing **machine learning algorithms** in **Python** (email classification, facial recognition), creating visual art with Turtle graphics, and analyzing large datasets using **SQL, Python, SPSS, and Google Sheets**. I also built **interactive Tableau dashboards** to visualize insights, track performance, and enhance decision-making.
+
+Over time, I expanded into **full-stack engineering**, building web applications with **React, Next.js, JavaScript, HTML/CSS**, and architecting secure databases with **PostgreSQL and Supabase**. I create full end-to-end systems, complete with **authentication flows, API development, OpenAI integrations**, and modern UI/UX principles.
+
+# RubytheDev — What I Build
+
+**Code. Create. Innovate.**  
+Professional **AI**, **Web Development**, & **Software Engineering** Services.
+
+## 💻 Web Development
+- Frontend & Backend Development  
+- E-commerce Solutions  
+- Progressive Web Apps (PWAs)  
+- API Integration  
+- Custom Functionality  
+- CMS Integration  
+- SEO Optimization  
+- Performance Optimization  
+- Ongoing Support  
+
+## 🤖 AI Engineering
+- Custom AI Models  
+- Natural Language Processing  
+- Computer Vision Applications  
+- Predictive Analytics  
+- Data Processing Pipelines  
+- OpenAI / GPT Integration  
+- Automated Workflows  
+- Training & Documentation  
+
+## ✨ Prompt Engineering
+- GPT-4 / ChatGPT Optimization  
+- Custom Prompt Development  
+- AI Content Generation Systems  
+- Workflow Optimization  
+- Documentation  
+- Training Sessions  
+- Ongoing Support  
+
+# Process — How We Work Together
+
+1. **Discovery** – Define vision and requirements  
+2. **Planning** – Roadmap, milestones, deliverables  
+3. **Development** – Iterative building & collaboration  
+4. **Delivery** – Testing, deployment, documentation
 
 ---
 
@@ -35,10 +79,11 @@ _Check out all my projects [here](https://github.com/rubythedev?tab=repositories
 ---
 
 ### 🛠️ Skills:
-- **Languages**: Python, SQL, MATLAB, Java, JavaScript, HTML, CSS
-- **Tools**: Tableau, Excel, Power BI, Git, Jupyter Notebooks, SPSS
-- **Frameworks/Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **Languages**: Python, SQL, JavaScript, TypeScript, Java, MATLAB, HTML, CSS
+- **Tools**: Tableau, Power BI, Excel, Git/GitHub, Jupyter Notebooks, SPSS, Supabase, PostgreSQL, Google Cloud, MailerLite, Stripe Integration
+- **Frameworks/Libraries**: React, Next.js, Node.js, Pandas, NumPy, Matplotlib, Scikit-learn, OpenAI API, REST APIs, Tailwind CSS
 - **Concepts**: Data Visualization, Statistical Analysis, Machine Learning, Predictive Modeling, Big Data, Data Structures and Algorithms, Software Development
+- **AI & Data Engineering**: Machine Learning, Natural Language Processing (NLP), Predictive Modeling
 
 ---
 
@@ -48,10 +93,14 @@ _Check out all my projects [here](https://github.com/rubythedev?tab=repositories
 ---
 
 ### 🌱 What’s Next:
-I am continually working on new projects to expand my skill set, particularly in machine learning algorithms and business analytics. Currently, I am expanding my knowledge in HTML, CSS, and JavaScript by building websites, while also focusing on machine learning projects that integrate business intelligence. I am applying the skills I’ve learned in TripleTen to execute projects that inform business decisions. I plan on participating in more coding competitions to enhance my abilities and am eager to learn additional machine learning libraries, such as PyTorch, to further advance my expertise.
+I’m currently expanding both sides of my career: RubyAliFitness and RubytheDev. On the fitness side, I’m building a modern, AI-powered wellness ecosystem that merges software engineering, data analytics, and user-centered design to create transformative mind–body–spirit experiences. This includes launching new web applications, digital programs, personalized workout generators, and interactive dashboards that empower users to track, measure, and optimize their transformations.
+
+On the development side, I’m continuing to engineer advanced software projects for clients—websites, AI-powered applications, custom automation systems, dashboards, and digital tools that help their businesses scale in more intelligent and efficient ways. I’m particularly focused on developing applications that leverage OpenAI, predictive analytics, API ecosystems, and complex database architectures to unlock new levels of capability for brands and entrepreneurs.
+
+Looking forward, I plan to keep merging creativity with technology—building more innovative products, expanding my client portfolio, and pushing deeper into AI engineering, automation, and full-stack development. My mission is to help businesses and individuals grow through smart, beautiful, data-driven software that opens doors to entirely new possibilities.
 
 ---
 
 ### 🚀 Let's Connect!
 
-Feel free to explore my work and reach out for collaboration or opportunities. I am currently seeking to join a company that shares my passion for automating processes through data science and applying business intelligence analytics to drive informed decision-making. With a strong foundation in data analysis, visualization, and business intelligence tools like Tableau and Power BI, I aim to help organizations unlock actionable insights and improve business performance through data-driven strategies.
+Feel free to explore my work and reach out for collaboration or opportunities.
