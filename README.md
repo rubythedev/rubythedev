@@ -56,13 +56,6 @@ Professional **AI**, **Web Development**, & **Software Engineering** Services.
 
 ---
 
-### 💼 What I Do:
-- **Data Analysis**: Skilled in **SQL, Python, Tableau,** and **Google Sheets** for data-driven decision-making.
-- **Leadership**: Experienced in leading communities, mentoring, and inspiring collaboration.
-- **Creative & Analytical Coding**: I enjoy automating processes, building data visualizations, and experimenting with new coding challenges. I am eager to enhance my programming skills and explore innovative ways to drive meaningful change.
-
----
-
 ### 💻 Featured Projects:
 
 - **PCA_COV: Advanced Principal Component Analysis Using Covariance Matrix**  
