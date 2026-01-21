@@ -1,6 +1,6 @@
 ## [✨ Check out my personal website! ✨](https://rubyalifitness/rubythedev)
 
-For website inquiries please email: rubythedev@rubyalifitness.com
+For website inquiries please email: rubyn0620@gmail.com
 
 # Hi, I'm Ruby!
 
