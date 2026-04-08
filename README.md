@@ -1,4 +1,4 @@
-## [✨ Check out my personal website! ✨](https://rubyalifitness/rubythedev)
+## [✨ Check out my portfolio! ✨](https://rubythedev.github.io/)
 
 For website inquiries please email: rubyn0620@gmail.com
 
